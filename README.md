@@ -12,7 +12,7 @@ Welcome to my **Photography Showcasing Website** – a visually stunning platfor
 ## 🚀 Technologies Used
 
 - **ReactJS**: For a seamless, dynamic front-end experience.
-- **Tailwind CSS**: To craft visually appealing and highly customizable styles.
+- **Tailwind CSS**: To craft visually appealing and highly customizable styles.=
 
 ## 🛠 Installation & Setup
 
@@ -20,11 +20,11 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/photography-showcase.git
+   git clone https://github.com/abhay707/PicNotion.git
 
 2. **Navigate to the project directory:**
    ```bash
-    cd photography-showcase
+    cd PicNotion
 
 3. **Install dependencies:**
    ```bash
